@@ -8,7 +8,7 @@
 
 <!-- ░░ TOP BANNER (waving, warm gradient) ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB4A2C,100:D6963C&height=200&section=header&text=Hamza%20Essaoui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20DevSecOps%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Hamza Essaoui" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB4A2C,100:D6963C&height=200&section=header&text=Hamza%20Essaoui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20DevSecOps%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Hamza Essaoui" />
 </p>
 
 <!-- ░░ TYPING SUBTITLE ░░ -->
