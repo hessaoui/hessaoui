@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/hamza-essaoui/">
     <img src="https://img.shields.io/badge/LinkedIn-hamza--essaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-hessaoui.vercel.app"> <!-- << replace with your real Vercel URL >> -->
+  <a href="https://hessaoui.vercel.app"> <!-- << replace with your real Vercel URL >> -->
     <img src="https://img.shields.io/badge/Portfolio-BB4A2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:hessaoui7@gmail.com">
