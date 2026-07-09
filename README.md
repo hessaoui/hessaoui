@@ -98,7 +98,7 @@ fun_fact: >
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hessaoui&hide_border=true&background=00000000&stroke=88888840&ring=BB4A2C&fire=D6963C&currStreakLabel=BB4A2C&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="streak" />
+  <img src="https://github-readme-streak-stats-eosin-two.vercel.app?user=hessaoui&hide_border=true&background=00000000&stroke=88888840&ring=BB4A2C&fire=D6963C&currStreakLabel=BB4A2C&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="streak" />
 </p>
 
 <br/>
